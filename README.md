@@ -1,3 +1,4 @@
+![logo](https://github.com/Engineeer-ravi/Engineeer-ravi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Pathak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src=https://tse2.mm.bing.net/th?id=OIP.frJJ8v0uWOmtbdYO-JKXGwHaFj&pid=Api&P=0&h=180>
