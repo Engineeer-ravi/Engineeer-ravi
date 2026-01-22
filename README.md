@@ -1,4 +1,5 @@
-![banner](https://github.com/Engineeer-ravi/Engineeer-ravi/blob/main/github-banner.png)
+![banner](https://raw.githubusercontent.com/Engineeer-ravi/Engineeer-ravi/main/github-banner.png)
+
 
 
 <h1 align="center">Ravi Kumar Pathak</h1>
