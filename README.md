@@ -1,4 +1,4 @@
-![banner](https://github.com/Engineeer-ravi/Engineeer-ravi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![banner](https://github.com/Engineeer-ravi/Engineeer-ravi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20BANNER.png)
 
 <h1 align="center">Ravi Kumar Pathak</h1>
 <h3 align="center">Data Analytics & Machine Learning Enthusiast | Python</h3>
